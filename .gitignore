@@ -1,0 +1,10 @@
+**/target/
+.idea/
+.vscode/
+*.iml
+.env
+*.log
+runtime/
+dist/
+# Local course reference PDFs (keep generated reports under docs/).
+/*.pdf
